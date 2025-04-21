@@ -1,0 +1,28 @@
+.br{
+    margin-left: 80%;
+}
+body{
+    background-color: rgb(168, 162, 162);
+    max-width: 100%;
+}
+.R10-card{
+    height: 90%;
+    width: 23%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin-top: 5%;
+    margin-left: 3%;
+    padding: 2%;
+    display: inline-block;
+    border-radius: 140px;
+}
+.card-img-top{
+    border-radius: 130px;
+    margin-bottom: 2%;
+}
+.row{
+    width: 100%;
+}
+.accordion{
+    border-radius: 55%;
+}
